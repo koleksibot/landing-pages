@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".git": true,
+    "**/*.gif": false,
+    "**/*.ico": false,
+    "**/*.jpg": false,
+    "**/*.jpeg": false,
+    "**/*.png": false,
+    ".cache/": true,
+    "node_modules/": true,
+    "public/": true
+  }
+}
