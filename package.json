@@ -38,7 +38,7 @@
     "gatsby-plugin-html-comments": "^1.0.0",
     "gatsby-plugin-humans-txt": "^1.1.4",
     "gatsby-plugin-manifest": "^3.5.0",
-    "gatsby-plugin-mdx": "^2.5.1",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-next-seo": "^1.7.0",
     "gatsby-plugin-offline": "^4.5.1",
     "gatsby-plugin-purgecss": "^6.0.2",
